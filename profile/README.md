@@ -5,6 +5,7 @@
 <br>I'm Ferlan Ferlani, a passionate Full Stack Developer with expertise in both front-end and back-end technologies. I love creating innovative, scalable, and efficient applications. Here you’ll find a collection of my projects and skills!
 
 ## 🌐 Socials:
+Sharing my tech journey&thoughts about Programming ⬇️
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ferlanferlani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ferlanferlani) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ferlan_ferlani)
 
