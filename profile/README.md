@@ -1,4 +1,4 @@
-![deskripsi gambar](../img/github-header-image.png)
+![deskripsi gambar](https://github.com/ferlanferlani/.github/blob/main/img/github-header-image.png?raw=true)
 
 ### 🧑🏻‍💻 About Me:
 
