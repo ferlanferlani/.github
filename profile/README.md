@@ -2,7 +2,11 @@
 
 ## 🧑🏻‍💻 About Me:
 
-<br>I'm Ferlan Ferlani, a passionate Full Stack Developer with expertise in both front-end and back-end technologies. I love creating innovative, scalable, and efficient applications. Here you’ll find a collection of my projects and skills!
+<br>I am a passionate enthusiast of computer science and programming. I feel driven and excited to continue learning and developing my knowledge and skills in this field. Every opportunity to learn new things and learn new concepts in the world of technology always makes me I am pleased.
+
+In addition, I really like reading activities. I see reading as an effective way to deepen my understanding of topics relevant to computer science and programming. Through reading, I can find new ideas, innovative thoughts, and keep abreast of the latest developments in this industry.
+
+The combination of my enthusiasm for computer science and programming, my desire to keep learning new things, and my passion for reading, formed a strong foundation for my journey in the world of technology. I am ready to take on new challenges, develop my skills and contribute to creating innovative solutions that benefit society.
 
 ## 🌐 Socials:
 Sharing my tech journey&thoughts about Programming ⬇️
